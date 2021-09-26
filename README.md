@@ -1,2 +1,2 @@
 # PolynomialCalculator
-Huh?
+Polynomial graphing calculator library.
